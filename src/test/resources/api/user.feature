@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Feature: User Management
-=======
-Feature: User_Management
->>>>>>> 3431e27498c10f90abe31ae7455b222a62e1d864
 
   Scenario: Create a New User
     Given I set POST endpoints
