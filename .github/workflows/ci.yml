@@ -1,4 +1,4 @@
-name: API-Automation + MAVEN
+name: API-Automation + MAVEN1
 
 on:
   push:
